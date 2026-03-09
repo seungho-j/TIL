@@ -14,6 +14,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
+- [2026-03-09-n8n-첫번째-워크플로우-자동화](n8n/2026-03-09-n8n-첫번째-워크플로우-자동화.md)
+
 - [2026-03-09-n8n-AI-Agent-서비스-일시-중단-오류-처리](n8n/2026-03-09-n8n-AI-Agent-서비스-일시-중단-오류-처리.md)
 </details>
 <br>
