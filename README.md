@@ -32,6 +32,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-03-09-n8n과-OpenClaw의-자율성-비교-및-OpenClaw-기능-고려사항](ai-agent/2026-03-09-n8n과-OpenClaw의-자율성-비교-및-OpenClaw-기능-고려사항.md)
+
 - [2026-03-09-n8n-AI-Agent-출력-형식-및-모델-성능-최적화](ai-agent/2026-03-09-n8n-AI-Agent-출력-형식-및-모델-성능-최적화.md)
 
 - [2026-03-09-출력-형식-오류-피드백-인지](ai-agent/2026-03-09-출력-형식-오류-피드백-인지.md)
